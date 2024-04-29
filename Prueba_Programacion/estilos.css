@@ -1,0 +1,44 @@
+body {
+    background-color: blueviolet;
+  }
+
+#formulario{
+  border: dashed black 1px;
+  padding: 8px;
+  border-radius: 8%;
+  background-color: green;
+}
+
+
+
+#mover_formulario{
+  display: grid; 
+  place-items: end end; 
+  height: 100vh;
+}
+
+#juegos{
+  position: absolute; 
+  bottom: 200px; 
+  left: 50px
+}
+
+
+.lilita-one-regular {
+  font-family: "Lilita One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 30px;
+  color: white;
+}
+
+
+.jersey-10-regular {
+  font-family: "Jersey 10", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+}
+
+
+
